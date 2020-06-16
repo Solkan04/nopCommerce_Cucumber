@@ -1,0 +1,8 @@
+stepDefinitions\TestBase.class
+testRunner\Runner.class
+utilities\WaitHelper.class
+stepDefinitions\XpathAxesDemo.class
+pageObjects\LoginPageObj.class
+pageObjects\AddCustomerPageObj.class
+stepDefinitions\Steps_Def.class
+pageObjects\SearchCustomerPageObj.class
